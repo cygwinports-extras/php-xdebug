@@ -1,5 +1,5 @@
 category: PHP
-requires: cygwin php
+requires: php
 sdesc: "PHP script debugging extension"
 ldesc: "The PHP Xdebug extension helps you debugging your script by 
 providing a lot of valuable debug information. The debug information 
