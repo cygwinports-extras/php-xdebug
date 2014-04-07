@@ -2,7 +2,7 @@ PHP_CHANNEL=pecl
 inherit php
 
 NAME="php-xdebug"
-VERSION=2.2.3
+VERSION=2.2.4
 RELEASE=1
 CATEGORY="PHP"
 SUMMARY="PHP script debugging extension"
